@@ -1,0 +1,68 @@
+<section class="top-countries">
+      <h2>Top Countries for MBBS Abroad</h2>
+      <ul>
+        <li>Russia</li>
+        <li>Uzbekistan</li>
+        <li>Kazakhstan</li>
+        <li>Philippines</li>
+        <li>Georgia</li>
+        <li>Kyrgyzstan</li>
+        <li>Egypt</li>
+      </ul>
+    </section>
+
+    <section class="admission-process">
+      <h2>Admission Process & Eligibility</h2>
+      <ol>
+        <li>Check eligibility criteria for your preferred country</li>
+        <li>Apply to medical universities</li>
+        <li>Submit required documents</li>
+        <li>Receive admission letter</li>
+        <li>Apply for a student visa</li>
+        <li>Book your flight and start your journey</li>
+      </ol>
+    </section>
+
+    <section class="cta-form">
+      <h2>Get Expert Guidance</h2>
+      <form>
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <input type="tel" placeholder="Your Phone" required />
+        <select required>
+          <option value="">Select Preferred Country</option>
+          <option value="Russia">Russia</option>
+          <option value="Uzbekistan">Uzbekistan</option>
+          <option value="Kazakhstan">Kazakhstan</option>
+          <option value="Philippines">Philippines</option>
+          <option value="Georgia">Georgia</option>
+          <option value="Kyrgyzstan">Kyrgyzstan</option>
+          <option value="Egypt">Egypt</option>
+        </select>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+
+
+
+
+
+ <!-- Why Study Abroad Section -->
+    <section class="why-study-abroad">
+        <div class="why__content">
+            <h2>WHY STUDY ABROAD?</h2>
+            <h1>
+                Why Pursue Your <br>
+                <span class="h1__span-1">Education Abroad</span>
+                <span class="h1__span-2">HERE'S SOME KEY BENEFITS</span>
+            </h1>
+            <p>
+                Comprehensive Support, Affordable Education, Globally Recognized Degrees, Diverse Learning Environment, Advanced Clinical Exposure
+            </p>
+            <button class="btn">Learn More</button>
+        </div>
+        <div class="why__image">
+            <img src="assets/header2.png" alt="Why Study Abroad">
+            <img src="assets/header2.png" alt="Why Study Abroad">
+        </div>
+    </section>
