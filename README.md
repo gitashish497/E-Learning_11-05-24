@@ -15,8 +15,8 @@ This project is a responsive website for an MBBS Abroad consultancy. It provides
 
 ### 1. Clone the Repository
 ```sh
-  git clone https://github.com/your-repository-url.git
-  cd your-project-folder
+  git clone https://github.com/gitashish497/E-Learning_11-05-24.git
+  cd E-Learning_11-05-24
 ```
 
 ### 2. Install Dependencies
